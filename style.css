@@ -99,3 +99,20 @@ margin:auto;
 line-height:1.8;
 margin-bottom:30px;
 }
+.manufacturing{
+padding:90px 8%;
+text-align:center;
+background:#111;
+}
+
+.manufacturing h2{
+color:#C9A84C;
+margin-bottom:20px;
+}
+
+.manufacturing p{
+max-width:700px;
+margin:auto;
+line-height:1.8;
+margin-bottom:30px;
+}
