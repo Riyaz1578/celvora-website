@@ -31,24 +31,14 @@ margin-left:25px;
 text-decoration:none;
 color:white;
 }
-
 .hero{
-padding:120px 8%;
+padding:140px 8%;
 text-align:center;
+background:linear-gradient(rgba(0,0,0,.75),rgba(0,0,0,.75)),
+url('https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=1600');
+background-size:cover;
+background-position:center;
 }
-
-.hero h1{
-font-size:60px;
-color:#C9A84C;
-}
-
-.hero p{
-margin:25px auto;
-max-width:700px;
-font-size:20px;
-color:#ddd;
-}
-
 .btn{
 display:inline-block;
 padding:15px 40px;
@@ -91,4 +81,21 @@ padding:40px;
 text-align:center;
 background:#111;
 margin-top:80px;
+}
+.manufacturing{
+padding:90px 8%;
+text-align:center;
+background:#111;
+}
+
+.manufacturing h2{
+color:#C9A84C;
+margin-bottom:20px;
+}
+
+.manufacturing p{
+max-width:700px;
+margin:auto;
+line-height:1.8;
+margin-bottom:30px;
 }
